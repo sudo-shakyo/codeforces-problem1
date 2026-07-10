@@ -18,3 +18,4 @@ The only line of each test case contains a single integer n
 
 Output
 For each test case, output a single integer, the number of different configurations of Farmer John's farm that are possible.
+<img width="872" height="451" alt="image" src="https://github.com/user-attachments/assets/b007fdae-8953-4e6f-be0c-2eaadc491d11" />
